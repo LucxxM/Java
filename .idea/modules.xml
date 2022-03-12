@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RepoGitAfpa.iml" filepath="$PROJECT_DIR$/.idea/RepoGitAfpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/OnlineStore/backend/backend.iml" filepath="$PROJECT_DIR$/code/OnlineStore/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/OnlineStore/frontend/frontend.iml" filepath="$PROJECT_DIR$/code/OnlineStore/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/Partition-main/Partition-main/Partition/myLibrary.iml" filepath="$PROJECT_DIR$/code/Partition-main/Partition-main/Partition/myLibrary.iml" />
+    </modules>
+  </component>
+</project>
